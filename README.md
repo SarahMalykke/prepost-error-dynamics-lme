@@ -12,7 +12,7 @@ Linear mixed-effects analyses of trial-by-trial behavior around errors. Uses lar
 └── README.md                            # Project description and instructions```
 
 ## Script Descriptions
-### `1. 1_data_cleaning.R`
+### ```1. 1_data_cleaning.R```
 
 ### Purpose:
 Initial preprocessing of the data. Calculates response times, performs log transformation, filters participants, and prepares trial-level variables for later analyses.
