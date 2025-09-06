@@ -9,10 +9,13 @@ Linear mixed-effects analyses of trial-by-trial behavior around errors. Uses lar
 ├── 2_match_groups.R                     # Create matched error and no-error groups
 ├── 3_residuals_tests_plots.R            # LME residuals, per-trial tests, log-residual plots
 ├── 4_trial-specific_residuals_plots.R   # Residuals per trial, per-trial stats, plots
-└── README.md                            # Project description and instructions```
+└── README.md                            # Project description and instructions
+```
 
-## Script Descriptions
-### ```1. 1_data_cleaning.R```
+### 1. `1_data_cleaning.R`
 
-### Purpose:
-Initial preprocessing of the data. Calculates response times, performs log transformation, filters participants, and prepares trial-level variables for later analyses.
+**Purpose:**  
+- Performs initial preprocessing of the dataset.  
+
+**Input:**  
+- `Flash_95%_Sarah.csv`: Raw 95% Flash Challenge dataset (Airport Scanner mobile game).  
