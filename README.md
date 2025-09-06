@@ -120,8 +120,6 @@ Recompute residuals **independently at each trial index** (i.e., for each `Trial
 
 ---
 
----
-
 ## Contact Information  
 
 For any questions regarding this project, please contact:  
