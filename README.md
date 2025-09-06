@@ -116,7 +116,6 @@ Recompute residuals **independently at each trial index** (i.e., for each `Trial
 **Output:**  
 - `pvals_touch_trial.csv`, `pvals_swipe_trial.csv`, `pvals_total_trial.csv` — per-trial p-values (Error vs NoError) using trial-specific residuals.  
 - `test_stats_touch_trial.csv`, `test_stats_swipe_trial.csv`, `test_stats_total_trial.csv` — full per-trial test statistics.  
-- *(Optional if saving)* `touch_residuals_trialwise.png`, `swipe_residuals_trialwise.png`, `total_residuals_trialwise.png` — trial-specific residual plots.
 
 ---
 
